@@ -10,3 +10,16 @@ class PostForm(forms.ModelForm):
 
 
 print('getg')
+
+
+print(
+
+
+)
+
+#ofivndosirnpiv$
+'''
+ded
+wedewwededewdwevtgg
+wrtgwtgwetp0ouh[ijsviousij[09jio]]
+'''
